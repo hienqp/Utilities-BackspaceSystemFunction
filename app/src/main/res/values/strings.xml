@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Backspace System Function</string>
+    <string name="editText_hint">Input</string>
+    <string name="button_clear_one_name">CLEAR ONE</string>
+</resources>
