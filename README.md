@@ -92,3 +92,4 @@ __RESULT__
 
 - với chức năng tương tự như phím BackSpace, tại vị trí con trỏ trong EditText ta có thể xóa lùi lần lượt từng ký tự từ phải sang trái, đồng thời vị trí con trỏ cũng sẽ lùi từ phải sang trái sau mỗi lần xóa 1 ký tự, dù cho ta chọn vị trí con trỏ đứng sau bất kỳ ký tự nào chăng nữa thì nó vẫn không reset vị trí về đầu hay cuối của chuỗi ký tự trong field của EditText
 
+<img src="https://github.com/hienqp/Utilities-BackspaceSystemFunction/blob/main/result.png">
